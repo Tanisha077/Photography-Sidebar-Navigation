@@ -1,29 +1,30 @@
-# 📷 Photography Sidebar Navigation
+# Photography Sidebar Navigation
 
-A simple and attractive photography-themed sidebar navigation project built using HTML and CSS.
+This is a simple mini project that I created using HTML and CSS.
 
-## 🚀 Features
+The project is a photography-themed sidebar navigation menu. When the user clicks on the menu icon, the sidebar opens and shows different navigation options.
 
-- 📌 Sliding sidebar navigation
-- 📷 Full-screen photography background
-- 🍔 Hamburger menu button
-- ❌ Close sidebar button
-- 🎨 CSS hover effects
-- 🔗 Navigation menu links
-- 📱 Social media icons
-- ✨ Smooth CSS transitions
-- 🚫 No JavaScript used
+## Features
 
-## 🛠️ Technologies Used
+- Sliding sidebar menu
+- Hamburger menu icon
+- Close button
+- Navigation links
+- Social media icons
+- Hover effects
+- Background image
+- Smooth transitions
 
-- HTML5
-- CSS3
+## Technologies Used
+
+- HTML
+- CSS
 - Font Awesome
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
-Photography-Sidebar-Navigation/
+Photography-Sidebar-Navigation
 │
 ├── index.html
 ├── project1.css
