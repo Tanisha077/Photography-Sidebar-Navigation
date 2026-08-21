@@ -1,2 +1,1 @@
-# Personal-Profile-Webpage-
-Designed a clean and responsive personal profile webpage using HTML5 and CSS3, implementing structured layouts, image integration, typography, and custom styling.
+Developed an interactive photography-themed sidebar navigation using HTML and CSS, featuring a sliding menu, hover effects, Font Awesome icons, and a full-screen background image.
